@@ -27,6 +27,7 @@
   <!-- * [Why torch dynamic](tutorial-contents/501_why_torch_dynamic_graph.py) -->
   * [Dropout]()
   * [Batch Normalization](https://github.com/ram-parvesh/Pytorch_tutorials/blob/main/Batch_normilization.py)
+  * [Batch Normalization jupyter notebook](https://github.com/ram-parvesh/Pytorch_tutorials/blob/main/Batch_normaliaztion.ipynb)
 
 
 <!-- ### [Regression](tutorial-contents/301_regression.py)
