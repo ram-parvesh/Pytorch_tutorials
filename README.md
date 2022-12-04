@@ -23,11 +23,10 @@
   * [deep_residual_network](https://github.com/ram-parvesh/Pytorch_tutorials/blob/main/intermediate/deep_residual_network/main.py)
 * Advanced neural network
   * [GAN (Generative Adversarial Nets)](https://github.com/ram-parvesh/Pytorch_tutorials/blob/main/GAN/main.py)
-<!-- * Others (WIP)
-  * [Why torch dynamic](tutorial-contents/501_why_torch_dynamic_graph.py)
-  * [Train on GPU](tutorial-contents/502_GPU.py)
-  * [Dropout](tutorial-contents/503_dropout.py)
-  * [Batch Normalization](tutorial-contents/504_batch_normalization.py) -->
+* Others (WIP)
+  <!-- * [Why torch dynamic](tutorial-contents/501_why_torch_dynamic_graph.py) -->
+  * [Dropout]()
+  * [Batch Normalization]() -->
 
 
 <!-- ### [Regression](tutorial-contents/301_regression.py)
