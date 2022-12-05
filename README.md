@@ -25,7 +25,7 @@
   * [GAN (Generative Adversarial Nets)](https://github.com/ram-parvesh/Pytorch_tutorials/blob/main/GAN/main.py)
 * Others (WIP)
   <!-- * [Why torch dynamic](tutorial-contents/501_why_torch_dynamic_graph.py) -->
-  * [Dropout]()
+  * [Dropout](https://github.com/ram-parvesh/Pytorch_tutorials/blob/main/Dropout.ipynb)
   * [Batch Normalization](https://github.com/ram-parvesh/Pytorch_tutorials/blob/main/Batch_normilization.py)
   * [Batch Normalization jupyter notebook](https://github.com/ram-parvesh/Pytorch_tutorials/blob/main/Batch_normaliaztion.ipynb)
   * [Transfer Learning using vgg16](https://github.com/ram-parvesh/Pytorch_tutorials/blob/main/Transfer%20Learning%20using%20vgg16%20network.ipynb)
