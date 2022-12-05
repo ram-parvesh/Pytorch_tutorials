@@ -28,6 +28,11 @@
   * [Dropout]()
   * [Batch Normalization](https://github.com/ram-parvesh/Pytorch_tutorials/blob/main/Batch_normilization.py)
   * [Batch Normalization jupyter notebook](https://github.com/ram-parvesh/Pytorch_tutorials/blob/main/Batch_normaliaztion.ipynb)
+  * [Transfer Learning using vgg16](https://github.com/ram-parvesh/Pytorch_tutorials/blob/main/Transfer%20Learning%20using%20vgg16%20network.ipynb)
+  * [Transfer Learning using DenseNet121](https://github.com/ram-parvesh/Pytorch_tutorials/blob/main/travsfer%20Learning%20using%20Desnet121.ipynb)
+  
+  
+  
 
 
 <!-- ### [Regression](tutorial-contents/301_regression.py)
