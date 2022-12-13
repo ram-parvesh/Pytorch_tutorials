@@ -61,7 +61,7 @@ class CNN(nn.Module):
         out = self.fc(out)
         return out 
 
-model = CNN(num_classes).to(device)
+    model = CNN(num_classes).to(device)
 
 # Loss and optimizer
 criterion = nn.CrossEntropyLoss()
